@@ -1,0 +1,14 @@
+.userItem {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  border: 1px solid black;
+  margin: 15px;
+}
+
+.userPhoto {
+  width: 150px;
+}
+
+.selectedPage {
+  font-weight: bold;
+}

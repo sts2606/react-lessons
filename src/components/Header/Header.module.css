@@ -1,0 +1,22 @@
+.header {
+  grid-area: header;
+  background-color: limegreen;
+}
+
+.header img {
+  width: 50px;
+}
+
+.loginBlock {
+  float: right;
+}
+
+.loginBlock a {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.loginBlock a:hover {
+  cursor: pointer;
+}
